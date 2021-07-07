@@ -65,15 +65,15 @@ p{
 /* tablet size md*/
 @media screen and(min-width:768px)and (max-width:991px){
   .my-col:nth-child(1) {
-    width: 50%;
+    width: 75%;
     height: 300px;
   }
   .my-col:nth-child(2) {
-    width: 50%;
+    width: 75%;
     height: 300px;
   }
   .my-col:nth-child(3) {
-    width: 50%;
+    width: 75%;
     height: 300px;
   }
 
