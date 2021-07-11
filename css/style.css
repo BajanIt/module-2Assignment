@@ -5,7 +5,9 @@ body{
 .container{
   background-color:white;
 }
-
+nav{
+  text-align;
+  }
 h1{
   text-align: center;
   justify-content: center;
