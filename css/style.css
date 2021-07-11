@@ -87,20 +87,15 @@ p{
    .my-col:nth-child(1) {
     width: 45%;
     height: 300px;
-
-
-
   }
   .my-col:nth-child(2) {
     width: 45%;
     height: 300px;
-
   }
 
   .my-col:nth-child(3) {
     width: 45%;
     height: 300px;
-
   }
 }
 @media screen and (min-width:680px)and (max-width:1400px) {
